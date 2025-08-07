@@ -109,7 +109,7 @@ Refer to `requirements.txt` for exact package versions.
    ```
 
    * `Vendor Performance Analysis.ipynb` → EDA & insights
-   * `Vendor Performance Analysis (Transformed).ipynb` → Data transformation & summary table
+   * `Exploratory_Data_Analysis.ipynb` → Data transformation & summary table
 
 6. **View the Power BI dashboard**
    Open Power BI Desktop and load `Dashboard/Vendor PerformanceDashboard.pbix`
@@ -122,7 +122,7 @@ Refer to `requirements.txt` for exact package versions.
 
 ---
 
-## 🙋 Contact
-
-
+## Contact
+-   Your Name - ahmedm
+-   Your Email - mrahmedm09@gmail.com
 
