@@ -123,6 +123,6 @@ Refer to `requirements.txt` for exact package versions.
 ---
 
 ## Contact
--   Your Name - ahmedm
--   Your Email - mrahmedm09@gmail.com
+-   Name - ahmedm
+-   Email - mrahmedm09@gmail.com
 
