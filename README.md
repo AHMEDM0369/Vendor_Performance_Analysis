@@ -29,31 +29,6 @@ This portfolio project demonstrates **production-grade analytics capabilities** 
 
 ---
 
-## 📁 Project Structure
-
-```plaintext
-Dashboard/
-│   images/
-│   └── Dashboard_preview.png               # Power BI dashboard snapshot  
-│   Vendor PerformanceDashboard.pbix        # Interactive Power BI file  
-
-Ingestion/
-│   ingestion_db.py                         # Script for loading raw data into DB  
-
-Logs/
-│   ingestion_db.log                        # ETL process logs  
-
-Notebooks/
-│   Vendor Performance Analysis.ipynb                      # Main EDA & insights  
-│   Vendor Performance Analysis (Transformed).ipynb        # Data transformation & summary table  
-
-.gitignore                                   # Files/folders ignored by Git  
-README.md                                    # Project documentation (this file)  
-requirements.txt                             # Python dependencies  
-````
-
----
-
 ## 📁 Repository Structure
 
 ```plaintext
